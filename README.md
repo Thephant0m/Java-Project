@@ -1,5 +1,5 @@
 # Java-Project
-Name:     Bank Management
+# Name:     Bank Management
 Platform : 	 Java
 Programming Language : 	 Java
 IDE Tool : 	 NetBeans 8.0.2
